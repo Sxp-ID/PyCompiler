@@ -9,9 +9,9 @@ goblok, gk ada akhlak wkwk :v
 ## How to it?
 ```python
 $ cd PyCompiler
-$ bash install.sh
 $ python enc.py
 ```
+> Full Tutorial [click here]()
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
