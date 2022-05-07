@@ -11,7 +11,7 @@ goblok, gk ada akhlak wkwk :v
 $ cd PyCompiler
 $ python enc.py
 ```
-> Full Tutorial [click here]()
+> Full Tutorial [click here](https://youtu.be/okoorYVIIDI)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
